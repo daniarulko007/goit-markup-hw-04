@@ -435,6 +435,8 @@ img {
   flex-wrap: wrap;
   gap: 24px;
   row-gap: 48px;
+  transform: translateY(100%);
+
 }
 
 .list {
